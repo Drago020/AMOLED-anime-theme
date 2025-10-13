@@ -1,6 +1,6 @@
 {
   "name": "AMOLED anime theme",
-  "description": "AMOLED Rem theme",
+  "description": "AMOLED Rem theme(modified by drago)",
   "authors": [
     {
       "name": "wiwiichan",
@@ -229,7 +229,7 @@
     "PLUM_24": "#000000"
   },
   "background": {
-    "url": "https://raw.githubusercontent.com/wiwiichan/AMOLED-anime-theme/refs/heads/main/rem.jpg",
+    "url": "https://cdn.discordapp.com/attachments/1243988019829149867/1427367529973682306/441de43f-1cb2-4565-97f8-0eb800d7bd87.jpg?ex=68ee9b1a&is=68ed499a&hm=e0e563610456885571d7b5f5afdbebf40584f2f1b0ef598c46d537bac07a26a2&",
     "blur": 0.5,
     "alpha": 0.25,
     "size": "cover",
