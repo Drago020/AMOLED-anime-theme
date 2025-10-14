@@ -1,0 +1,68 @@
+{
+  "name": "Aesthetic Sepia Noir",
+  "description": "Muted sepia & coffee tone theme inspired by vintage anime aesthetic",
+  "authors": [
+    {
+      "name": "Drago",
+      "id": "725075745671479296"
+    }
+  ],
+  "semanticColors": {
+    "BACKGROUND_PRIMARY": ["#1c1c1b"],
+    "BACKGROUND_SECONDARY": ["#2a2927"],
+    "BACKGROUND_TERTIARY": ["#1b1a19"],
+    "BACKGROUND_ACCENT": ["#3b352e"],
+    "BACKGROUND_MODIFIER_ACCENT": ["#3b352e"],
+    "CHAT_INPUT_CONTAINER_BACKGROUND": ["#1e1d1b"],
+
+    "TEXT_PRIMARY": ["#e8e4da"],
+    "TEXT_SECONDARY": ["#cfc9bb"],
+    "TEXT_MUTED": ["#9c9587"],
+    "TEXT_LINK": ["#b28f6a"],
+    "TEXT_BRAND": ["#bda88a"],
+    "TEXT_NORMAL": ["#e8e4da"],
+
+    "REDESIGN_BUTTON_PRIMARY_BACKGROUND": ["#5a544b"],
+    "REDESIGN_BUTTON_PRIMARY_TEXT": ["#f0ede7"],
+    "REDESIGN_BUTTON_SECONDARY_BACKGROUND": ["#2e2c29"],
+    "REDESIGN_BUTTON_SECONDARY_TEXT": ["#d8d3c8"],
+    "REDESIGN_BUTTON_TERTIARY_BACKGROUND": ["#1f1e1c"],
+    "REDESIGN_BUTTON_DANGER_BACKGROUND": ["#7a3e3e"],
+    "REDESIGN_BUTTON_POSITIVE_BACKGROUND": ["#4b6042"],
+
+    "DIVIDER_STRONG": ["#3b362f"],
+    "SCROLLBAR_THIN_THUMB": ["#5c534a"],
+    "SCROLLBAR_THIN_TRACK": ["#1a1918"],
+    "SCROLLBAR_AUTO_THUMB": ["#5c534a"],
+    "SCROLLBAR_AUTO_TRACK": ["#1a1918"],
+
+    "USER_PROFILE_HEADER_OVERFLOW_BACKGROUND": ["#1b1a18"],
+    "STATUS_ONLINE": ["#4b6042"],
+    "STATUS_DND": ["#7a3e3e"],
+    "STATUS_IDLE": ["#b28f6a"],
+    "STATUS_OFFLINE": ["#2a2927"]
+  },
+  "rawColors": {
+    "PRIMARY_800": "#1b1a18",
+    "PRIMARY_700": "#24221f",
+    "PRIMARY_600": "#2c2925",
+    "PRIMARY_500": "#3a332e",
+    "BRAND_500": "#bda88a",
+    "WHITE": "#f0ede7",
+    "BLACK_500": "#12110f"
+  },
+  "background": {
+    "url": "https://cdn.discordapp.com/attachments/1243988019829149867/1427367529973682306/441de43f-1cb2-4565-97f8-0eb800d7bd87.jpg?ex=68ee9b1a&is=68ed499a&hm=e0e563610456885571d7b5f5afdbebf40584f2f1b0ef598c46d537bac07a26a2&",
+    "blur": 0.5,
+    "alpha": 0.25,
+    "size": "cover",
+    "position": "center"
+  },
+  "spec": 2,
+  "createdAt": "2025-10-14",
+  "source": "local",
+  "plus": {
+    "version": 0,
+    "iconpack": "solar"
+  }
+}
