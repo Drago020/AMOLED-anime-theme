@@ -1,9 +1,9 @@
 {
-  "name": "AMOLED anime theme",
-  "description": "AMOLED Rem theme(modified by drago)",
+  "name": "Aesthetic Amoled <3",
+  "description": "Aesthetic Amoled <3"",
   "authors": [
     {
-      "name": "wiwiichan",
+      "name": "Drago",
       "id": "725075745671479296"
     }
   ],
@@ -236,6 +236,10 @@
     "position": "center"
   },
   "spec": 2,
+  "plus": {
+    "version": 0,
+    "iconpack": "solar"
+  }
   "createdAt": "2025-10-05",
   "source": "local"
 }
