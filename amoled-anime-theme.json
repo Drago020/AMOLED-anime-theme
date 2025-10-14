@@ -238,4 +238,8 @@
   "spec": 2,
   "createdAt": "2025-10-05",
   "source": "local"
+  "plus": {
+    "version": 0,
+    "iconpack": "solar"
+  }
 }
