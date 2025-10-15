@@ -1,0 +1,103 @@
+{
+  "name": "Aesthetic Sepia Noir <3",
+  "description": "Warm sepia noir theme — creamy text, golden accents, and deep amoled browns.",
+  "authors": [
+    {
+      "name": "Drago",
+      "id": "906112630152921089"
+    }
+  ],
+  "semanticColors": {
+    "BACKGROUND_PRIMARY": ["#0e0b09"],
+    "BACKGROUND_SECONDARY": ["#12100e"],
+    "BACKGROUND_TERTIARY": ["#1a1612"],
+    "BACKGROUND_ACCENT": ["#1f1a15"],
+    "BACKGROUND_FLOATING": ["#1f1a15"],
+    "BACKGROUND_MODIFIER_ACCENT": ["#2a2119"],
+    "BACKGROUND_MODIFIER_HOVER": ["#2a2119"],
+    "BACKGROUND_MODIFIER_ACTIVE": ["#2f261e"],
+    "BACKGROUND_MODIFIER_SELECTED": ["#3a2e24"],
+
+    "TEXT_PRIMARY": ["#e5dcc8"],
+    "TEXT_SECONDARY": ["#d5c7ae"],
+    "TEXT_MUTED": ["#a89984"],
+    "TEXT_LINK": ["#b48a60"],
+    "TEXT_POSITIVE": ["#d4b37c"],
+    "TEXT_WARNING": ["#e5dcc8"],
+    "TEXT_DANGER": ["#b48a60"],
+
+    "INTERACTIVE_NORMAL": ["#e5dcc8"],
+    "INTERACTIVE_HOVER": ["#d4b37c"],
+    "INTERACTIVE_ACTIVE": ["#b48a60"],
+    "INTERACTIVE_MUTED": ["#3a2e24"],
+
+    "BUTTON_PRIMARY_BACKGROUND": ["#2a2119"],
+    "BUTTON_PRIMARY_TEXT": ["#e5dcc8"],
+    "BUTTON_SECONDARY_BACKGROUND": ["#1a1612"],
+    "BUTTON_SECONDARY_TEXT": ["#d5c7ae"],
+    "REDESIGN_BUTTON_PRIMARY_BACKGROUND": ["#2a2119"],
+    "REDESIGN_BUTTON_PRIMARY_TEXT": ["#e5dcc8"],
+
+    "STATUS_ONLINE": ["#b48a60"],
+    "STATUS_DND": ["#a89984"],
+    "STATUS_IDLE": ["#d4b37c"],
+    "STATUS_OFFLINE": ["#2a2119"],
+
+    "SCROLLBAR_THIN_THUMB": ["#3a2e24"],
+    "SCROLLBAR_THIN_TRACK": ["#12100e"],
+    "SCROLLBAR_AUTO_THUMB": ["#3a2e24"],
+    "SCROLLBAR_AUTO_TRACK": ["#0e0b09"],
+
+    "TOAST_BG": ["#12100e"],
+    "TOAST_TEXT": ["#e5dcc8"],
+    "CHAT_INPUT_CONTAINER_BACKGROUND": ["#12100e"]
+  },
+  "rawColors": {
+    "PRIMARY_100": "#e5dcc8",
+    "PRIMARY_200": "#d5c7ae",
+    "PRIMARY_300": "#a89984",
+    "PRIMARY_400": "#3a2e24",
+    "PRIMARY_500": "#2a2119",
+    "PRIMARY_600": "#1f1a15",
+    "PRIMARY_630": "#1f1a15",
+    "PRIMARY_660": "#1a1612",
+    "PRIMARY_700": "#12100e",
+    "PRIMARY_800": "#0e0b09",
+
+    "BACKGROUND_PRIMARY": "#0e0b09",
+    "BACKGROUND_SECONDARY": "#12100e",
+    "BACKGROUND_TERTIARY": "#1a1612",
+
+    "INTERACTIVE_NORMAL": "#e5dcc8",
+    "INTERACTIVE_ACTIVE": "#b48a60",
+    "INTERACTIVE_MUTED": "#3a2e24",
+
+    "BRAND_260": "#b48a60",
+    "BRAND_360": "#b48a60",
+    "BRAND_500": "#b48a60",
+    "TEXT_NORMAL": "#e5dcc8",
+    "TEXT_MUTED": "#a89984",
+    "TEXT_LINK": "#b48a60",
+
+    "BUTTON_PRIMARY_BG": "#2a2119",
+    "BUTTON_PRIMARY_TEXT": "#e5dcc8",
+    "BUTTON_SECONDARY_BG": "#1a1612",
+    "BUTTON_SECONDARY_TEXT": "#d5c7ae",
+
+    "BLACK_500": "#00000050"
+  },
+  "background": {
+    "url": "https://cdn.discordapp.com/attachments/1243988019829149867/1427367529973682306/441de43f-1cb2-4565-97f8-0eb800d7bd87.jpg",
+    "blur": 0.5,
+    "alpha": 0.25,
+    "size": "cover",
+    "position": "center"
+  },
+  "plus": {
+    "version": 0,
+    "iconpack": "solar"
+  },
+  "spec": 2,
+  "createdAt": "2025-10-15",
+  "source": "local"
+}
