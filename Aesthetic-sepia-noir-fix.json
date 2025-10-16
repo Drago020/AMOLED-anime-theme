@@ -1,99 +1,62 @@
 {
-  "name": "Aesthetic Sepia Noir <3 (Non-Amoled)",
-  "description": "Warm vintage sepia noir with soft browns, creamy text, and golden accents. Balanced for non-Amoled displays.",
+  "name": "Aesthetic Sepia Noir",
+  "description": "Warm muted sepia noir look — elegant, vintage, and easy on the eyes.",
   "authors": [
     {
-      "name": "Drago",
+      "name": "Drago Warior",
       "id": "906112630152921089"
     }
   ],
   "semanticColors": {
-    "BACKGROUND_PRIMARY": ["#1b1815"],
-    "BACKGROUND_SECONDARY": ["#221f1c"],
-    "BACKGROUND_TERTIARY": ["#292520"],
-    "BACKGROUND_ACCENT": ["#312b26"],
-    "BACKGROUND_FLOATING": ["#312b26"],
-    "BACKGROUND_MODIFIER_ACCENT": ["#3c352f"],
-    "BACKGROUND_MODIFIER_HOVER": ["#3c352f"],
-    "BACKGROUND_MODIFIER_ACTIVE": ["#453d36"],
-    "BACKGROUND_MODIFIER_SELECTED": ["#4a413a"],
-
-    "TEXT_PRIMARY": ["#e5dcc8"],
-    "TEXT_SECONDARY": ["#d5c7ae"],
-    "TEXT_MUTED": ["#a89984"],
-    "TEXT_LINK": ["#b48a60"],
-
-    "INTERACTIVE_NORMAL": ["#e5dcc8"],
-    "INTERACTIVE_HOVER": ["#d4b37c"],
-    "INTERACTIVE_ACTIVE": ["#b48a60"],
-    "INTERACTIVE_MUTED": ["#3c352f"],
-
-    "BUTTON_PRIMARY_BACKGROUND": ["#3a312b"],
-    "BUTTON_PRIMARY_TEXT": ["#f0e8d8"],
-    "BUTTON_SECONDARY_BACKGROUND": ["#2d2621"],
-    "BUTTON_SECONDARY_TEXT": ["#d5c7ae"],
-
-    "REDESIGN_BUTTON_PRIMARY_BACKGROUND": ["#3a312b"],
-    "REDESIGN_BUTTON_PRIMARY_TEXT": ["#f0e8d8"],
-
-    "STATUS_ONLINE": ["#b48a60"],
-    "STATUS_DND": ["#a89984"],
-    "STATUS_IDLE": ["#d4b37c"],
-    "STATUS_OFFLINE": ["#3a312b"],
-
-    "SCROLLBAR_THIN_THUMB": ["#4a413a"],
-    "SCROLLBAR_THIN_TRACK": ["#1b1815"],
-    "SCROLLBAR_AUTO_THUMB": ["#4a413a"],
-    "SCROLLBAR_AUTO_TRACK": ["#221f1c"],
-
-    "TOAST_BG": ["#292520"],
-    "TOAST_TEXT": ["#e5dcc8"],
-    "CHAT_INPUT_CONTAINER_BACKGROUND": ["#221f1c"]
+    "BACKGROUND_PRIMARY": "#25231f",
+    "BACKGROUND_SECONDARY": "#2f2b26",
+    "BACKGROUND_TERTIARY": "#3b362f",
+    "BACKGROUND_ACCENT": "#49433a",
+    "TEXT_NORMAL": "#e7e2d6",
+    "TEXT_MUTED": "#cfc8b8",
+    "TEXT_LINK": "#b49a74",
+    "INTERACTIVE_NORMAL": "#b49a74",
+    "INTERACTIVE_HOVER": "#c8b18a",
+    "INTERACTIVE_ACTIVE": "#e7e2d6",
+    "INTERACTIVE_MUTED": "#5a5349",
+    "BRAND_COLOR": "#b49a74",
+    "BUTTON_PRIMARY_BACKGROUND": "#5a544b",
+    "BUTTON_PRIMARY_TEXT": "#f0ede7",
+    "BUTTON_SECONDARY_BACKGROUND": "#3b352e",
+    "BUTTON_SECONDARY_TEXT": "#d8d3c8"
   },
   "rawColors": {
-    "PRIMARY_100": "#f0e8d8",
-    "PRIMARY_200": "#e5dcc8",
-    "PRIMARY_300": "#d5c7ae",
-    "PRIMARY_400": "#a89984",
-    "PRIMARY_500": "#3a312b",
-    "PRIMARY_600": "#312b26",
-    "PRIMARY_630": "#292520",
-    "PRIMARY_660": "#221f1c",
-    "PRIMARY_700": "#1b1815",
-    "PRIMARY_800": "#171411",
-
-    "BACKGROUND_PRIMARY": "#1b1815",
-    "BACKGROUND_SECONDARY": "#221f1c",
-    "BACKGROUND_TERTIARY": "#292520",
-
-    "INTERACTIVE_NORMAL": "#e5dcc8",
-    "INTERACTIVE_ACTIVE": "#b48a60",
-    "INTERACTIVE_MUTED": "#3c352f",
-
-    "BRAND_260": "#b48a60",
-    "BRAND_360": "#b48a60",
-    "BRAND_500": "#b48a60",
-    "TEXT_NORMAL": "#e5dcc8",
-    "TEXT_MUTED": "#a89984",
-    "TEXT_LINK": "#b48a60",
-
-    "BUTTON_PRIMARY_BG": "#3a312b",
-    "BUTTON_PRIMARY_TEXT": "#f0e8d8",
-    "BUTTON_SECONDARY_BG": "#2d2621",
-    "BUTTON_SECONDARY_TEXT": "#d5c7ae"
-  },
-  "background": {
-    "url": "https://cdn.discordapp.com/attachments/1243988019829149867/1427367529973682306/441de43f-1cb2-4565-97f8-0eb800d7bd87.jpg",
-    "blur": 0.4,
-    "alpha": 0.3,
-    "size": "cover",
-    "position": "center"
+    "PRIMARY_100": "#e7e2d6",
+    "PRIMARY_200": "#d9d3c2",
+    "PRIMARY_300": "#cfc8b8",
+    "PRIMARY_400": "#b49a74",
+    "PRIMARY_500": "#a38c68",
+    "PRIMARY_600": "#5a544b",
+    "PRIMARY_700": "#3b352e",
+    "BACKGROUND_PRIMARY": "#25231f",
+    "BACKGROUND_SECONDARY": "#2f2b26",
+    "BACKGROUND_TERTIARY": "#3b362f",
+    "INTERACTIVE_NORMAL": "#b49a74",
+    "INTERACTIVE_ACTIVE": "#e7e2d6",
+    "TEXT_NORMAL": "#e7e2d6",
+    "TEXT_MUTED": "#cfc8b8",
+    "TEXT_LINK": "#b49a74"
   },
   "plus": {
     "version": 0,
     "iconpack": "solar"
   },
+  "background": {
+    "url": "https://cdn.discordapp.com/attachments/1243988019829149867/1427367529973682306/441de43f-1cb2-4565-97f8-0eb800d7bd87.jpg",
+    "blur": 0.4,
+    "alpha": 0.25,
+    "size": "cover",
+    "position": "center"
+  },
   "spec": 2,
-  "createdAt": "2025-10-15",
-  "source": "local"
-  }
+  "CHAT_INPUT_CONTAINER_BACKGROUND": "#1e1d1b",
+  "DIVIDER_STRONG": "#3b362f",
+  "SCROLLBAR_THIN_THUMB": "#5c534a",
+  "SCROLLBAR_THIN_TRACK": "#1a1918",
+  "USER_PROFILE_HEADER_OVERFLOW_BACKGROUND": "#1b1a18"
+}
